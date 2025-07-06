@@ -1,0 +1,158 @@
+label	index	network_label	label_7network	index_17network	label_17network	network_label_17network	atlas_name	network_id	hemisphere_labels
+Background									
+LH_Vis_1	1.0	Vis	7Networks_LH_Vis_1	49.0	17Networks_LH_DefaultC_PHC_1	DefaultC	4S156		n/a
+LH_Vis_2	2.0	Vis	7Networks_LH_Vis_2	1.0	17Networks_LH_VisCent_ExStr_1	VisCent	4S156		LH
+LH_Vis_3	3.0	Vis	7Networks_LH_Vis_3	5.0	17Networks_LH_VisPeri_ExStrInf_1	VisPeri	4S156		LH
+LH_Vis_4	4.0	Vis	7Networks_LH_Vis_4	2.0	17Networks_LH_VisCent_ExStr_2	VisCent	4S156		LH
+LH_Vis_5	5.0	Vis	7Networks_LH_Vis_5	3.0	17Networks_LH_VisCent_Striate_1	VisCent	4S156		LH
+LH_Vis_6	6.0	Vis	7Networks_LH_Vis_6	6.0	17Networks_LH_VisPeri_StriCal_1	VisPeri	4S156		LH
+LH_Vis_7	7.0	Vis	7Networks_LH_Vis_7	15.0	17Networks_LH_DorsAttnA_ParOcc_1	DorsAttnA	4S156		LH
+LH_Vis_8	8.0	Vis	7Networks_LH_Vis_8	4.0	17Networks_LH_VisCent_ExStr_3	VisCent	4S156		LH
+LH_Vis_9	9.0	Vis	7Networks_LH_Vis_9	7.0	17Networks_LH_VisPeri_ExStrSup_1	VisPeri	4S156		LH
+LH_SomMot_1	10.0	SomMot	7Networks_LH_SomMot_1	10.0	17Networks_LH_SomMotB_Aud_1	SomMotB	4S156		LH
+LH_SomMot_2	11.0	SomMot	7Networks_LH_SomMot_2	11.0	17Networks_LH_SomMotB_S2_1	SomMotB	4S156		LH
+LH_SomMot_3	12.0	SomMot	7Networks_LH_SomMot_3	12.0	17Networks_LH_SomMotB_S2_2	SomMotB	4S156		LH
+LH_SomMot_4	13.0	SomMot	7Networks_LH_SomMot_4	13.0	17Networks_LH_SomMotB_Cent_1	SomMotB	4S156		LH
+LH_SomMot_5	14.0	SomMot	7Networks_LH_SomMot_5	8.0	17Networks_LH_SomMotA_1	SomMotA	4S156		LH
+LH_SomMot_6	15.0	SomMot	7Networks_LH_SomMot_6	9.0	17Networks_LH_SomMotA_2	SomMotA	4S156		LH
+LH_DorsAttn_Post_1	16.0	DorsAttn	7Networks_LH_DorsAttn_Post_1	14.0	17Networks_LH_DorsAttnA_TempOcc_1	DorsAttnA	4S156		LH
+LH_DorsAttn_Post_2	17.0	DorsAttn	7Networks_LH_DorsAttn_Post_2	17.0	17Networks_LH_DorsAttnB_PostC_1	DorsAttnB	4S156		LH
+LH_DorsAttn_Post_3	18.0	DorsAttn	7Networks_LH_DorsAttn_Post_3	16.0	17Networks_LH_DorsAttnA_SPL_1	DorsAttnA	4S156		LH
+LH_DorsAttn_Post_4	19.0	DorsAttn	7Networks_LH_DorsAttn_Post_4	18.0	17Networks_LH_DorsAttnB_PostC_2	DorsAttnB	4S156		LH
+LH_DorsAttn_Post_5	20.0	DorsAttn	7Networks_LH_DorsAttn_Post_5	36.0	17Networks_LH_ContC_pCun_2	ContC	4S156		LH
+LH_DorsAttn_Post_6	21.0	DorsAttn	7Networks_LH_DorsAttn_Post_6	19.0	17Networks_LH_DorsAttnB_PostC_3	DorsAttnB	4S156		LH
+LH_DorsAttn_PrCv_1	22.0	DorsAttn	7Networks_LH_DorsAttn_PrCv_1	33.0	17Networks_LH_ContA_PFCl_2	ContA	4S156		LH
+LH_DorsAttn_FEF_1	23.0	DorsAttn	7Networks_LH_DorsAttn_FEF_1	20.0	17Networks_LH_DorsAttnB_FEF_1	DorsAttnB	4S156		LH
+LH_SalVentAttn_ParOper_1	24.0	SalVentAttn	7Networks_LH_SalVentAttn_ParOper_1	21.0	17Networks_LH_SalVentAttnA_ParOper_1	SalVentAttnA	4S156		LH
+LH_SalVentAttn_FrOperIns_1	25.0	SalVentAttn	7Networks_LH_SalVentAttn_FrOperIns_1	22.0	17Networks_LH_SalVentAttnA_Ins_1	SalVentAttnA	4S156		LH
+LH_SalVentAttn_FrOperIns_2	26.0	SalVentAttn	7Networks_LH_SalVentAttn_FrOperIns_2	23.0	17Networks_LH_SalVentAttnA_Ins_2	SalVentAttnA	4S156		LH
+LH_SalVentAttn_PFCl_1	27.0	SalVentAttn	7Networks_LH_SalVentAttn_PFCl_1	26.0	17Networks_LH_SalVentAttnB_PFCl_1	SalVentAttnB	4S156		LH
+LH_SalVentAttn_Med_1	28.0	SalVentAttn	7Networks_LH_SalVentAttn_Med_1	27.0	17Networks_LH_SalVentAttnB_PFCmp_1	SalVentAttnB	4S156		LH
+LH_SalVentAttn_Med_2	29.0	SalVentAttn	7Networks_LH_SalVentAttn_Med_2	24.0	17Networks_LH_SalVentAttnA_ParMed_1	SalVentAttnA	4S156		LH
+LH_SalVentAttn_Med_3	30.0	SalVentAttn	7Networks_LH_SalVentAttn_Med_3	25.0	17Networks_LH_SalVentAttnA_FrMed_1	SalVentAttnA	4S156		LH
+LH_Limbic_OFC_1	31.0	Limbic	7Networks_LH_Limbic_OFC_1	28.0	17Networks_LH_LimbicB_OFC_1	LimbicB	4S156		LH
+LH_Limbic_TempPole_1	32.0	Limbic	7Networks_LH_Limbic_TempPole_1	29.0	17Networks_LH_LimbicA_TempPole_1	LimbicA	4S156		LH
+LH_Limbic_TempPole_2	33.0	Limbic	7Networks_LH_Limbic_TempPole_2	30.0	17Networks_LH_LimbicA_TempPole_2	LimbicA	4S156		LH
+LH_Cont_Par_1	34.0	Cont	7Networks_LH_Cont_Par_1	31.0	17Networks_LH_ContA_IPS_1	ContA	4S156		LH
+LH_Cont_PFCl_1	35.0	Cont	7Networks_LH_Cont_PFCl_1	32.0	17Networks_LH_ContA_PFCl_1	ContA	4S156		LH
+LH_Cont_pCun_1	36.0	Cont	7Networks_LH_Cont_pCun_1	35.0	17Networks_LH_ContC_pCun_1	ContC	4S156		LH
+LH_Cont_Cing_1	37.0	Cont	7Networks_LH_Cont_Cing_1	37.0	17Networks_LH_ContC_Cingp_1	ContC	4S156		LH
+LH_Default_Temp_1	38.0	Default	7Networks_LH_Default_Temp_1	41.0	17Networks_LH_DefaultB_Temp_1	DefaultB	4S156		LH
+LH_Default_Temp_2	39.0	Default	7Networks_LH_Default_Temp_2	42.0	17Networks_LH_DefaultB_Temp_2	DefaultB	4S156		LH
+LH_Default_Par_1	40.0	Default	7Networks_LH_Default_Par_1	50.0	17Networks_LH_TempPar_1	TempPar	4S156		LH
+LH_Default_Par_2	41.0	Default	7Networks_LH_Default_Par_2	43.0	17Networks_LH_DefaultB_IPL_1	DefaultB	4S156		LH
+LH_Default_PFC_1	42.0	Default	7Networks_LH_Default_PFC_1	46.0	17Networks_LH_DefaultB_PFCv_1	DefaultB	4S156		LH
+LH_Default_PFC_2	43.0	Default	7Networks_LH_Default_PFC_2	47.0	17Networks_LH_DefaultB_PFCv_2	DefaultB	4S156		LH
+LH_Default_PFC_3	44.0	Default	7Networks_LH_Default_PFC_3	40.0	17Networks_LH_DefaultA_PFCm_1	DefaultA	4S156		LH
+LH_Default_PFC_4	45.0	Default	7Networks_LH_Default_PFC_4	34.0	17Networks_LH_ContB_PFClv_1	ContB	4S156		LH
+LH_Default_PFC_5	46.0	Default	7Networks_LH_Default_PFC_5	44.0	17Networks_LH_DefaultB_PFCd_1	DefaultB	4S156		LH
+LH_Default_PFC_6	47.0	Default	7Networks_LH_Default_PFC_6	45.0	17Networks_LH_DefaultB_PFCl_1	DefaultB	4S156		LH
+LH_Default_PFC_7	48.0	Default	7Networks_LH_Default_PFC_7	38.0	17Networks_LH_DefaultA_PFCd_1	DefaultA	4S156		LH
+LH_Default_pCunPCC_1	49.0	Default	7Networks_LH_Default_pCunPCC_1	48.0	17Networks_LH_DefaultC_Rsp_1	DefaultC	4S156		LH
+LH_Default_pCunPCC_2	50.0	Default	7Networks_LH_Default_pCunPCC_2	39.0	17Networks_LH_DefaultA_pCunPCC_1	DefaultA	4S156		LH
+RH_Vis_1	51.0	Vis	7Networks_RH_Vis_1	97.0	17Networks_RH_DefaultC_PHC_1	DefaultC	4S156		RH
+RH_Vis_2	52.0	Vis	7Networks_RH_Vis_2	51.0	17Networks_RH_VisCent_ExStr_1	VisCent	4S156		RH
+RH_Vis_3	53.0	Vis	7Networks_RH_Vis_3	65.0	17Networks_RH_DorsAttnA_TempOcc_1	DorsAttnA	4S156		RH
+RH_Vis_4	54.0	Vis	7Networks_RH_Vis_4	52.0	17Networks_RH_VisCent_ExStr_2	VisCent	4S156		RH
+RH_Vis_5	55.0	Vis	7Networks_RH_Vis_5	54.0	17Networks_RH_VisPeri_StriCal_1	VisPeri	4S156		RH
+RH_Vis_6	56.0	Vis	7Networks_RH_Vis_6	55.0	17Networks_RH_VisPeri_ExStrInf_1	VisPeri	4S156		RH
+RH_Vis_7	57.0	Vis	7Networks_RH_Vis_7	53.0	17Networks_RH_VisCent_ExStr_3	VisCent	4S156		RH
+RH_Vis_8	58.0	Vis	7Networks_RH_Vis_8	56.0	17Networks_RH_VisPeri_ExStrSup_1	VisPeri	4S156		RH
+RH_SomMot_1	59.0	SomMot	7Networks_RH_SomMot_1	61.0	17Networks_RH_SomMotB_Aud_1	SomMotB	4S156		RH
+RH_SomMot_2	60.0	SomMot	7Networks_RH_SomMot_2	62.0	17Networks_RH_SomMotB_S2_1	SomMotB	4S156		RH
+RH_SomMot_3	61.0	SomMot	7Networks_RH_SomMot_3	63.0	17Networks_RH_SomMotB_S2_2	SomMotB	4S156		RH
+RH_SomMot_4	62.0	SomMot	7Networks_RH_SomMot_4	64.0	17Networks_RH_SomMotB_Cent_1	SomMotB	4S156		RH
+RH_SomMot_5	63.0	SomMot	7Networks_RH_SomMot_5	57.0	17Networks_RH_SomMotA_1	SomMotA	4S156		RH
+RH_SomMot_6	64.0	SomMot	7Networks_RH_SomMot_6	58.0	17Networks_RH_SomMotA_2	SomMotA	4S156		RH
+RH_SomMot_7	65.0	SomMot	7Networks_RH_SomMot_7	59.0	17Networks_RH_SomMotA_3	SomMotA	4S156		RH
+RH_SomMot_8	66.0	SomMot	7Networks_RH_SomMot_8	60.0	17Networks_RH_SomMotA_4	SomMotA	4S156		RH
+RH_DorsAttn_Post_1	67.0	DorsAttn	7Networks_RH_DorsAttn_Post_1	66.0	17Networks_RH_DorsAttnA_ParOcc_1	DorsAttnA	4S156		RH
+RH_DorsAttn_Post_2	68.0	DorsAttn	7Networks_RH_DorsAttn_Post_2	68.0	17Networks_RH_DorsAttnB_PostC_1	DorsAttnB	4S156		RH
+RH_DorsAttn_Post_3	69.0	DorsAttn	7Networks_RH_DorsAttn_Post_3	80.0	17Networks_RH_ContA_IPS_1	ContA	4S156		RH
+RH_DorsAttn_Post_4	70.0	DorsAttn	7Networks_RH_DorsAttn_Post_4	67.0	17Networks_RH_DorsAttnA_SPL_1	DorsAttnA	4S156		RH
+RH_DorsAttn_Post_5	71.0	DorsAttn	7Networks_RH_DorsAttn_Post_5	69.0	17Networks_RH_DorsAttnB_PostC_2	DorsAttnB	4S156		RH
+RH_DorsAttn_PrCv_1	72.0	DorsAttn	7Networks_RH_DorsAttn_PrCv_1	82.0	17Networks_RH_ContA_PFCl_2	ContA	4S156		RH
+RH_DorsAttn_FEF_1	73.0	DorsAttn	7Networks_RH_DorsAttn_FEF_1	70.0	17Networks_RH_DorsAttnB_FEF_1	DorsAttnB	4S156		RH
+RH_SalVentAttn_TempOccPar_1	74.0	SalVentAttn	7Networks_RH_SalVentAttn_TempOccPar_1	100.0	17Networks_RH_TempPar_3	TempPar	4S156		RH
+RH_SalVentAttn_TempOccPar_2	75.0	SalVentAttn	7Networks_RH_SalVentAttn_TempOccPar_2	71.0	17Networks_RH_SalVentAttnA_ParOper_1	SalVentAttnA	4S156		RH
+RH_SalVentAttn_FrOperIns_1	76.0	SalVentAttn	7Networks_RH_SalVentAttn_FrOperIns_1	72.0	17Networks_RH_SalVentAttnA_Ins_1	SalVentAttnA	4S156		RH
+RH_SalVentAttn_Med_1	77.0	SalVentAttn	7Networks_RH_SalVentAttn_Med_1	73.0	17Networks_RH_SalVentAttnA_ParMed_1	SalVentAttnA	4S156		RH
+RH_SalVentAttn_Med_2	78.0	SalVentAttn	7Networks_RH_SalVentAttn_Med_2	74.0	17Networks_RH_SalVentAttnA_FrMed_1	SalVentAttnA	4S156		RH
+RH_Limbic_OFC_1	79.0	Limbic	7Networks_RH_Limbic_OFC_1	78.0	17Networks_RH_LimbicB_OFC_1	LimbicB	4S156		RH
+RH_Limbic_TempPole_1	80.0	Limbic	7Networks_RH_Limbic_TempPole_1	79.0	17Networks_RH_LimbicA_TempPole_1	LimbicA	4S156		RH
+RH_Cont_Par_1	81.0	Cont	7Networks_RH_Cont_Par_1	75.0	17Networks_RH_SalVentAttnB_IPL_1	SalVentAttnB	4S156		RH
+RH_Cont_Par_2	82.0	Cont	7Networks_RH_Cont_Par_2	84.0	17Networks_RH_ContB_IPL_1	ContB	4S156		RH
+RH_Cont_PFCl_1	83.0	Cont	7Networks_RH_Cont_PFCl_1	86.0	17Networks_RH_ContB_PFClv_1	ContB	4S156		RH
+RH_Cont_PFCl_2	84.0	Cont	7Networks_RH_Cont_PFCl_2	81.0	17Networks_RH_ContA_PFCl_1	ContA	4S156		RH
+RH_Cont_PFCl_3	85.0	Cont	7Networks_RH_Cont_PFCl_3	76.0	17Networks_RH_SalVentAttnB_PFCl_1	SalVentAttnB	4S156		RH
+RH_Cont_PFCl_4	86.0	Cont	7Networks_RH_Cont_PFCl_4	85.0	17Networks_RH_ContB_PFCld_1	ContB	4S156		RH
+RH_Cont_Cing_1	87.0	Cont	7Networks_RH_Cont_Cing_1	87.0	17Networks_RH_ContC_Cingp_1	ContC	4S156		RH
+RH_Cont_PFCmp_1	88.0	Cont	7Networks_RH_Cont_PFCmp_1	77.0	17Networks_RH_SalVentAttnB_PFCmp_1	SalVentAttnB	4S156		RH
+RH_Cont_pCun_1	89.0	Cont	7Networks_RH_Cont_pCun_1	88.0	17Networks_RH_ContC_pCun_1	ContC	4S156		RH
+RH_Default_Par_1	90.0	Default	7Networks_RH_Default_Par_1	89.0	17Networks_RH_DefaultA_IPL_1	DefaultA	4S156		RH
+RH_Default_Temp_1	91.0	Default	7Networks_RH_Default_Temp_1	83.0	17Networks_RH_ContB_Temp_1	ContB	4S156		RH
+RH_Default_Temp_2	92.0	Default	7Networks_RH_Default_Temp_2	98.0	17Networks_RH_TempPar_1	TempPar	4S156		RH
+RH_Default_Temp_3	93.0	Default	7Networks_RH_Default_Temp_3	99.0	17Networks_RH_TempPar_2	TempPar	4S156		RH
+RH_Default_PFCv_1	94.0	Default	7Networks_RH_Default_PFCv_1	94.0	17Networks_RH_DefaultB_PFCv_1	DefaultB	4S156		RH
+RH_Default_PFCv_2	95.0	Default	7Networks_RH_Default_PFCv_2	95.0	17Networks_RH_DefaultB_PFCv_2	DefaultB	4S156		RH
+RH_Default_PFCdPFCm_1	96.0	Default	7Networks_RH_Default_PFCdPFCm_1	92.0	17Networks_RH_DefaultA_PFCm_1	DefaultA	4S156		RH
+RH_Default_PFCdPFCm_2	97.0	Default	7Networks_RH_Default_PFCdPFCm_2	93.0	17Networks_RH_DefaultB_PFCd_1	DefaultB	4S156		RH
+RH_Default_PFCdPFCm_3	98.0	Default	7Networks_RH_Default_PFCdPFCm_3	90.0	17Networks_RH_DefaultA_PFCd_1	DefaultA	4S156		RH
+RH_Default_pCunPCC_1	99.0	Default	7Networks_RH_Default_pCunPCC_1	96.0	17Networks_RH_DefaultC_Rsp_1	DefaultC	4S156		RH
+RH_Default_pCunPCC_2	100.0	Default	7Networks_RH_Default_pCunPCC_2	91.0	17Networks_RH_DefaultA_pCunPCC_1	DefaultA	4S156		RH
+LH-Pu	101.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-Ca	102.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-NAC	103.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-EXA	104.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-GPe	105.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-GPi	106.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-SNc_PBP_VTA	107.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-RN	108.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-SNr	109.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-VeP	110.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-HN	111.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-HTH	112.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-MN	113.0	CIT168Subcortical					CIT168Subcortical		LH
+LH-STH	114.0	CIT168Subcortical					CIT168Subcortical		LH
+RH-Pu	115.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-Ca	116.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-NAC	117.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-EXA	118.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-GPe	119.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-GPi	120.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-SNc_PBP_VTA	121.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-RN	122.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-SNr	123.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-VeP	124.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-HN	125.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-HTH	126.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-MN	127.0	CIT168Subcortical					CIT168Subcortical		RH
+RH-STH	128.0	CIT168Subcortical					CIT168Subcortical		RH
+LH-Pulvinar	129.0	ThalamusHCP					ThalamusHCP		LH
+LH-Anterior	130.0	ThalamusHCP					ThalamusHCP		LH
+LH-Medio_Dorsal	131.0	ThalamusHCP					ThalamusHCP		LH
+LH-Ventral_Latero_Dorsal	132.0	ThalamusHCP					ThalamusHCP		LH
+LH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar	133.0	ThalamusHCP					ThalamusHCP		LH
+LH-Ventral_Anterior	134.0	ThalamusHCP					ThalamusHCP		LH
+LH-Ventral_Latero_Ventral	135.0	ThalamusHCP					ThalamusHCP		LH
+RH-Pulvinar	136.0	ThalamusHCP					ThalamusHCP		RH
+RH-Anterior	137.0	ThalamusHCP					ThalamusHCP		RH
+RH-Medio_Dorsal	138.0	ThalamusHCP					ThalamusHCP		RH
+RH-Ventral_Latero_Dorsal	139.0	ThalamusHCP					ThalamusHCP		RH
+RH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar	140.0	ThalamusHCP					ThalamusHCP		RH
+RH-Ventral_Anterior	141.0	ThalamusHCP					ThalamusHCP		RH
+RH-Ventral_Latero_Ventral	142.0	ThalamusHCP					ThalamusHCP		RH
+LH_Hippocampus	143.0	SubcorticalHCP					SubcorticalHCP		LH
+LH_Amygdala	144.0	SubcorticalHCP					SubcorticalHCP		LH
+RH_Hippocampus	145.0	SubcorticalHCP					SubcorticalHCP		RH
+RH_Amygdala	146.0	SubcorticalHCP					SubcorticalHCP		RH
+Cerebellar_Region1	147.0	Cerebellum					Cerebellum		
+Cerebellar_Region2	148.0	Cerebellum					Cerebellum		
+Cerebellar_Region3	149.0	Cerebellum					Cerebellum		
+Cerebellar_Region4	150.0	Cerebellum					Cerebellum		
+Cerebellar_Region5	151.0	Cerebellum					Cerebellum		
+Cerebellar_Region6	152.0	Cerebellum					Cerebellum		
+Cerebellar_Region7	153.0	Cerebellum					Cerebellum		
+Cerebellar_Region8	154.0	Cerebellum					Cerebellum		
+Cerebellar_Region9	155.0	Cerebellum					Cerebellum		
+Cerebellar_Region10	156.0	Cerebellum					Cerebellum		
