@@ -24,6 +24,9 @@ The "nilearn_data" and "neuromaps-data" files are the ones normally fetched by N
 They are included in the repository so that tests don’t have to download these files every time they
 run.
 
+The "schaefer4s.tsv" and the "schaefer4s_error.tsv" files are modified versions of the
+"atlas-4S156Parcels_dseg.tsv" file from the [AtlasPack repo](https://github.com/PennLINC/AtlasPack).
+
 # References
 [^1]: Laumann, T. O., Gordon, E. M., Adeyemo, B., Snyder, A. Z., Joo, S. J., Chen, M. Y., Gilmore,
 A. W., McDermott, K. B., Nelson, S. M., Dosenbach, N. U., Schlaggar, B. L., Mumford, J. A., Poldrack,
