@@ -26,6 +26,8 @@ run.
 
 The "schaefer4s.tsv" and the "schaefer4s_error.tsv" files are modified versions of the
 "atlas-4S156Parcels_dseg.tsv" file from the [AtlasPack repo](https://github.com/PennLINC/AtlasPack).
+The "tpl-MNI152NLin6Asym_atlas-4S156Parcels_res-01_dseg.nii" file was also obtained from the
+[AtlasPack repo].
 
 # References
 [^1]: Laumann, T. O., Gordon, E. M., Adeyemo, B., Snyder, A. Z., Joo, S. J., Chen, M. Y., Gilmore,
